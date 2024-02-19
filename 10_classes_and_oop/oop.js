@@ -39,3 +39,14 @@ const usertwo2 = new User("Javascript")
 // return 
 
 console.log(userOne1.constructor);
+
+// instanceof method
+
+//Javascript is a prototypal behaviour
+
+// new , classes, this, inheritance all these are working with the help of prototype
+
+// array is an Object, No one is parent of an Object
+// Array-->Object-->null
+// String-->Object-->null
+// function behaving like function and Object both, tachnically it is also an Object
